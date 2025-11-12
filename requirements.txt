@@ -6,4 +6,4 @@ python-dateutil
 pytz
 scipy
 six
-wheel
+librosa
